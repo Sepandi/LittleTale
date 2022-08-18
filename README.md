@@ -1,10 +1,10 @@
 # LittleTale
-Game Maded with Pygame/Python | Dungeons Crawler Like Game | It Was a ProtoType for one one of my next games :)
+Game Maded with Pygame/Python | Dungeons Crawler Like Game
 ______________________
 
 -Kill The Zombies 
 
--Go to the Next Levels
+-Go to the Upper levels Levels and Leave the Underground
 
 -Try Not To Die
 
