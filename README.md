@@ -1,5 +1,5 @@
 # LittleTale
-Game Maded with Pygame/Python | Dungeons Crawler Like Game
+a Game Made with Pygame/Python | Dungeons Crawler Like Game
 ______________________
 
 -Kill The Zombies 
